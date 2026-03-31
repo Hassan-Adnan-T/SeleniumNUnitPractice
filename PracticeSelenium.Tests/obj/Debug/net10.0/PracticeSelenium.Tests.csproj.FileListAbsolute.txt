@@ -160,3 +160,4 @@ C:\Selenium\PracticeSelenium.Tests\obj\Debug\net10.0\refint\PracticeSelenium.Tes
 C:\Selenium\PracticeSelenium.Tests\obj\Debug\net10.0\PracticeSelenium.Tests.pdb
 C:\Selenium\PracticeSelenium.Tests\obj\Debug\net10.0\PracticeSelenium.Tests.genruntimeconfig.cache
 C:\Selenium\PracticeSelenium.Tests\obj\Debug\net10.0\ref\PracticeSelenium.Tests.dll
+C:\Selenium\PracticeSelenium.Tests\obj\Debug\net10.0\PracticeSelenium.Tests.sourcelink.json
